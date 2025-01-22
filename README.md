@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Amina Momand👋  
 
-<!--
-**AmMomand/AmMomand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **QA Engineer** and **Web Developer** with a passion for:  
+- Software Testing (Manual & Automation)  
+- Web Development (Front-End & Back-End)  
+- Continuous Learning and Building Quality Solutions  
 
-Here are some ideas to get you started:
+## 🌟 Skills  
+- **QA Testing:** Test Automation, Functional Testing, Regression Testing, Test Design Techniques  
+- **Web Development:** HTML, CSS, JavaScript, React, Node.js  
+- **Tools & Technologies:** Selenium, Postman, Git, JIRA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals  
+- Deepening knowledge in software testing and QA methodologies  
+- Enhancing web development skills and contributing to projects  
+
+## 📫 Let's Connect  
+- LinkedIn: (Amina Momand)  
+- Email: (aminamomand.momand@gmail.com)  
+
+Feel free to explore my repositories and reach out to collaborate or share ideas!  
