@@ -17,6 +17,6 @@ Aspiring QA Engineer with a passion for:
 
 📫 Let’s Connect
 	•	LinkedIn: (Amina Momand)
-	•	Email: (aminamomand.momand@gmail.com)
+	•	Email: (amaminamomand@gmail.com)
 
 Excited to collaborate, learn, and contribute to high-quality software solutions! 🚀
